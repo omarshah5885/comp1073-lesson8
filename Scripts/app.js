@@ -3,7 +3,16 @@
 
 "use strict";
 
+var myVariable = "hello";
 
+console.log("myVariable " + myVariable);
+
+var myArray = [];
+
+myArray.push("my first Greeting");
+myArray.push("my second Greeting");
+
+console.log(myArray);
 
 
 })();
